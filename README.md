@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com)
+[![Maven Central](https://img.shields.io/maven-central/v/pl.wtx.vies/vies-api-client?label=Maven%20Central&logo=apache-maven&color=blue)](https://mvnrepository.com/artifact/pl.wtx.vies/vies-api-client)
 
 A lightweight Java client for the public [VIES REST API](https://ec.europa.eu/taxation_customs/vies/) that validates EU VAT numbers and reports the availability of national VAT systems. 🚀
 
